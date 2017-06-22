@@ -1,5 +1,5 @@
 FROM homeassistant/armhf-base:latest
-#LABEL io.hass.version="0.47"
+LABEL io.hass.version="0.47"
 ENV LANG C.UTF-8
 
 # Setup base
