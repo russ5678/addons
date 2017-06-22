@@ -1,1 +1,1 @@
-./fliclib-linux-hci-master/bin/armv6l/flicd -s 0.0.0.0 -f flic.sqlite3
+./fliclib-linux-hci/bin/armv6l/flicd -s 0.0.0.0 -f flic.sqlite3
