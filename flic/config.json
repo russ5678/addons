@@ -1,6 +1,6 @@
 {
   "name": "flic server",
-  "version": ".1",
+  "version": "1.0",
   "slug": "flic_server",
   "description": "Should start flic server on port 5551",
   "startup": "before",
