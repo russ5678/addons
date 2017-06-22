@@ -7,7 +7,7 @@
   "boot": "auto",
   "options": {},
   "schema": {},
-  "image": "russ5678/flic-server",
+  "image": "russ5678/{arch}-flic-server",
   "ports": {
     "5551/tcp": 5551
   }
